@@ -1,0 +1,20 @@
+{
+  "name": "FAQ_Card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guerracode/FAQ_Card.git"
+  },
+  "keywords": [],
+  "author": "Jose Luis Chavez <josephsiul15@gmai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guerracode/FAQ_Card/issues"
+  },
+  "homepage": "https://github.com/guerracode/FAQ_Card#readme"
+}
